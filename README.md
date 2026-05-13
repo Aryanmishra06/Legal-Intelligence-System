@@ -4,6 +4,7 @@ This project helps users perform smart legal case searches, analyze court datase
 
 🚀 Features
 🔍 Smart Legal Case Search using TF-IDF + Cosine Similarity
+
 📊 Interactive Dashboard for Legal Analytics
 🤖 Machine Learning-based Outcome Prediction
 ⚡ Live Search Functionality
